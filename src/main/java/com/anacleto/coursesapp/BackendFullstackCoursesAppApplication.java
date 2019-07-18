@@ -1,4 +1,4 @@
-package com.anacleto.coursesapp.BackendFullstackCoursesApp;
+package com.anacleto.coursesapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

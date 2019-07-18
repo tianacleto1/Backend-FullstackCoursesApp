@@ -1,4 +1,4 @@
-package com.anacleto.coursesapp.BackendFullstackCoursesApp;
+package com.anacleto.coursesapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
